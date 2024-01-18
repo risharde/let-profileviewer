@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "LET - Profile Viewer",
+    "version": "1.0",
+    "description": "LET Profile Viewer",
+  
+    "icons": {
+
+    },
+    "content_scripts": [
+      {
+        "js": ["scripts/jquery-3.7.1.min.js", "scripts/content.js"],
+        "matches": [
+          "https://lowendtalk.com/*/*/*",
+          "https://lowendtalk.com/*/*/*/*"
+        ]
+      }
+    ]
+  }
