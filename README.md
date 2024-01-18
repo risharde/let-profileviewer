@@ -1,8 +1,8 @@
 LET PROFILE VIEWER
 <img src="chrome/images/let-profileviewer.jpg">
 
-These chrome and firefox extensions simply allows you to click a username in a thread
-to get the user details without going to the next page and then having to press back to 
+These chrome and firefox extensions simply allows you to click the profile link next to the username
+in a post to get the user details without going to the next page and then having to press back to 
 to return to the thread you were reading. 
 
 2 versions available - Chrome and Firefox
